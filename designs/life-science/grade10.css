@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(174, 170, 170);
+    color: rgb(86, 58, 58);
+}
+
+.titleHeader{
+    font-size: 40px;
+    text-align: center;
+}
+
+.subject-title, .description  {
+    text-align: center;
+    font-family: cursive;
+}
+
+.chapter-name {
+    text-align: center;
+    background-color: rgb(177, 172, 182);
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+
+.chapter-pic-problem {
+    object-fit: contain;
+}
+

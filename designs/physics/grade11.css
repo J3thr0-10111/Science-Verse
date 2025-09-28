@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(203, 193, 187);
+}
+
+.titleHeader {
+    text-align: center;
+}
+
+.title-component, .chapter-name, .chapter-content {
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+.titleHeader {
+    color: rgba(91, 91, 87, 0.4);
+    text-align: center;
+}
+
+.space {
+    background-color: black;
+}
+
+.title-component, .description {
+    text-align: center;
+}
+
+.chapter-one-problem {
+    height: 200px;
+}
+
+.chapter-header {
+    text-align: center;
+}

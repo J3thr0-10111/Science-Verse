@@ -1,0 +1,29 @@
+.titleHeader {
+    color: rgba(91, 91, 87, 0.4);
+    text-align: center;
+}
+
+
+
+.title-component {
+    text-align: center;
+}
+
+.chapter-details {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(350px, 1fr));
+    align-items: center;
+    justify-content: center;
+}
+
+
+.chapter-one-problem {
+    width: 100%;
+    object-fit: contain;
+    overflow: hidden;
+}
+
+.chapter-header, .description, .chapter-one-problem {
+    text-align: center;
+}
+

@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(203, 193, 187);
+    left: 0;
+}
+
+.titleHeader {
+    text-align: center;
+}
+
+.title-component, .chapter-name, .chapter-content {
+    text-align: center;
+}
+
+.chapter-content {
+    padding: 55px;
+}
+
+.chapter-one-problem {
+    height: 100%;
+    width: 80%;
+}
